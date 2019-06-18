@@ -141,9 +141,10 @@ html,body{
 }
 
 .boxShadow1{
+	position: absolute;
+	top:35%;
 	border:0px ;
 	background:yellow;
-	margin-top:-20%;
 	margin-left:70%;
 	padding:15px;
 	width:55px;

@@ -1,0 +1,182 @@
+
+
+.container{
+	position:relative;
+	display:block;
+	margin:auto;
+	padding:auto;
+	width:95%;
+	height:100%;
+}
+
+.column1{
+	width:70%;
+	float:left;
+	margin:auto;
+	margin-right: 10px;
+	height:100%;
+}
+
+.row1{
+	height:60%;
+	margin-bottom: 10px;
+}
+
+.new{
+	position:absolute;
+	border-radius:250px;
+	border:1px solid yellow;
+	background:orange;
+	width:80px;
+	height:80px;
+	top:5%;
+	margin-left:5%;
+	color: white;
+	line-height:75px;
+	font-size:40px;
+	text-align: center;   
+}
+
+.numberCircle1{
+  position: absolute;
+  border-radius: 50%;
+  border: 2px solid white;
+  width: 20px;
+  height: 20px;
+  top: 17%;
+  margin-left:2%;
+  padding: 2px;
+  color: white;
+  text-align: center;
+  font: 17px Arial, sans-serif;
+}
+
+.text1{
+	color:white;
+	margin-top: -30%;
+	margin-left:7%;
+}
+
+.sign{
+	font-size: 22px;
+}
+
+.no1{
+	font-size: 40px;
+}
+
+.numberCircle2{
+  position: absolute;
+  border-radius: 50%;
+  border: 2px solid white;
+  width: 20px;
+  height: 20px;
+  top: 35%;
+  margin-left:50%;
+  padding: 2px;
+  color: white;
+  text-align: center;
+  font: 17px Arial, sans-serif;
+}
+
+.text2{
+	color:white;
+	margin-top: 3%;
+	margin-left:75%;
+}
+
+.no2{
+	font-size:25px;
+}
+
+.ea{
+	font-size:25px;
+}
+
+.row2{
+	height:38%;
+	
+}
+
+.numberCircle3{
+  position: absolute;
+  border-radius: 50%;
+  border: 2px solid white;
+  width: 20px;
+  height: 20px;
+  bottom: 30%;
+  margin-left:20%;
+  padding: 2px;
+  color: white;
+  text-align: center;
+  font: 17px Arial, sans-serif;
+}
+
+.text3{
+	position: absolute;
+	color:white;
+	margin-left:23%;
+	margin-top: -18%;
+}
+
+.no3{
+	font-size: 25px;
+}
+
+.numberCircle4{
+  position: absolute;
+  border-radius: 50%;
+  border: 2px solid white;
+  width: 20px;
+  height: 20px;
+  bottom: 10%;
+  margin-left:2%;
+  padding: 2px;
+  color: white;
+  text-align: center;
+  font: 17px Arial, sans-serif;
+}
+
+.text4{
+	position: absolute;
+	color:white;
+	margin-left:5%;
+	margin-top: -8%;
+}
+
+.sign1{
+	font-size:20px;
+}
+
+.no4{
+	font-size: 30px;
+}
+
+.no5{
+	font-size: 18px;
+}
+
+.column2{
+	width:25%;
+	float:left;
+	margin:auto;
+	margin-left:30px;
+	height:100%;
+}
+
+.row:after{
+	content:"";
+	display:table;
+	clear: both;
+}
+
+.notes{
+	margin-top:60%;
+	padding-left: 14px;
+}
+
+.corner{
+	margin-left: 72%;
+	margin-top: 30px;
+	font-size: 15px;
+}

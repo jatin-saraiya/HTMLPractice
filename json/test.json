@@ -1,0 +1,11 @@
+{
+	"items":[
+			{
+				"description":"Json read file from javascript." ,
+				"thing":"Nightlamp",
+				"sign":"$",
+				"price": "4.",
+				"no":"90"
+			}]
+	
+}

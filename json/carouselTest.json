@@ -1,0 +1,17 @@
+{
+	"slide_items":[ 
+	{
+		"img":"img/cupcakes.jpg",
+		"description":"Cupcakes"
+	},
+	
+	{
+		"img":"img/balloons.jpg",
+		"description":"Balloons"
+	},
+	
+	{
+		"img":"img/cakes.jpg",
+		"description":"Cakes"
+	}]
+}
